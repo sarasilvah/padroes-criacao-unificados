@@ -74,10 +74,6 @@ Os testes cobrem:
 - cada fábrica concreta cria o par correto de Histórico e Diploma;
 - o aluno nunca recebe uma mistura de documentos de tipos diferentes.
 
-## Diagrama de classes
-
-![Diagrama de classes - Padrões de Criação Unificados](diagrama/diagrama-classes-padroes-criacao.png)
-
 ## Autor
 
 Trabalho individual — disciplina Arquitetura e Projeto de Software.
